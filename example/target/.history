@@ -1,0 +1,8 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/60/5_bxyy_15njf0rvms57g08mw0000gn/T/sbt-structure.xml; session clear-all
+ls
+scala
+clear
+scala
+console
+all {file:/Users/aashir/Documents/Personal-Github/ParallelProgramming/example/}root/products {file:/Users/aashir/Documents/Personal-Github/ParallelProgramming/example/}root/test:products
+submit aashir789@gmail.com g1nQSmD0sNZSl7qB
